@@ -1,5 +1,5 @@
-public class Main {
-  public static void main (String[] args) {
-    System.out.println("Hello World");
+public class Main {                             //Declared the class of Main to be public
+  public static void main (String[] args) {     //This main method always has to be present in your Main class
+    System.out.println("Hello World");          //This is the simple syntax for printing anything
   }
 }
